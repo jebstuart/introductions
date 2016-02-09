@@ -1,6 +1,7 @@
 John Hiott
 --------------
 
+![johnhiott](images/johnhiott.png)
 
 
 ### About me

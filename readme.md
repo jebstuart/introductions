@@ -14,4 +14,5 @@ Introductions
 - Push your branch to origin
 - Go to Github and create a pull request
 
-[John Hiott](johnhiott.md)
+### Introductions:
+- [John Hiott](johnhiott.md)
